@@ -1,7 +1,7 @@
 // ==============================================
 // Disciplina: Algoritmos e Estrutura de Dados
 // Atividade 1 - Exercício 1
-// Autora: Vitoria Mendes Rodrigues
+// Vitoria Mendes Rodrigues
 // ==============================================
 // Sistema de reservas de hotel
 // Esse programa cria variáveis para armazenar informações de um hóspede
